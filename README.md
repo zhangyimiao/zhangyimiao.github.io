@@ -1,8 +1,10 @@
-## 这是第一页
+## 初章
 
-You can use the [editor on GitHub](https://github.com/zhangyimiao/zhangyimiao.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+To the world you maybe one person but to one person you may be the world.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Notes:
+[editor on GitHub](https://github.com/zhangyimiao/zhangyimiao.github.io/edit/master/README.md) 
+GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages 
 
 ### 第二页
 
